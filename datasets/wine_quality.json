@@ -1,0 +1,115 @@
+{
+  "checklists": {
+    "checklists": []
+  }, 
+  "customMeta": {
+    "kv": {}
+  }, 
+  "flowOptions": {
+    "crossProjectBuildBehavior": "DEFAULT", 
+    "rebuildBehavior": "NORMAL"
+  }, 
+  "formatParams": {
+    "arrayMapFormat": "json", 
+    "charset": "utf8", 
+    "compress": "", 
+    "dateSerializationFormat": "ISO", 
+    "escapeChar": "\\", 
+    "hiveSeparators": [
+      "\u0002", 
+      "\u0003", 
+      "\u0004", 
+      "\u0005", 
+      "\u0006", 
+      "\u0007", 
+      "\b"
+    ], 
+    "normalizeDoubles": false, 
+    "parseHeaderRow": true, 
+    "probableNumberOfRecords": 12, 
+    "quoteChar": "\"", 
+    "separator": " ", 
+    "skipRowsAfterHeader": 0, 
+    "skipRowsBeforeHeader": 0, 
+    "style": "excel"
+  }, 
+  "formatType": "csv", 
+  "managed": false, 
+  "metrics": {
+    "probes": []
+  }, 
+  "params": {}, 
+  "partitioning": {
+    "dimensions": [], 
+    "ignoreNonMatchingFile": false
+  }, 
+  "schema": {
+    "columns": [
+      {
+        "maxLength": -1, 
+        "name": "fixed acidity", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "volatile acidity", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "citric acid", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "residual sugar", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "chlorides", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "free sulfur dioxide", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "total sulfur dioxide", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "density", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "pH", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "sulphates", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "alcohol", 
+        "type": "string"
+      }, 
+      {
+        "maxLength": -1, 
+        "name": "quality", 
+        "type": "string"
+      }
+    ], 
+    "userModified": false
+  }, 
+  "tags": [
+    "creator_admin"
+  ], 
+  "type": "UploadedFiles"
+}
