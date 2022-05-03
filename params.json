@@ -23,7 +23,6 @@
       "zonesGraphConnectZones": true
     },
     "gitCommitMode": "AUTO",
-    "useRemoteGit": true,
     "disableAutomaticTriggers": false,
     "integrations": {
       "integrations": []
@@ -185,11 +184,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 18,
+    "versionNumber": 19,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1651589364853
+    "lastModifiedOn": 1651612998702
   },
   "description": "\n\u003csup\u003eData from\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. \nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.Picture \n\u003c/sup\u003e",
   "shortDesc": "Learn how to integrate Git with DSS",
