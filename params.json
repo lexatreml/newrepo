@@ -185,14 +185,14 @@
     }
   },
   "versionTag": {
-    "versionNumber": 16,
+    "versionNumber": 18,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1651522956566
+    "lastModifiedOn": 1651589364853
   },
-  "description": "# Your first DSS plugin\n\nIn this tutorial, you\u0027ll learn how to create plugins to extend the features of DSS. You will create:\n\n* A custom recipe to analyze correlations in a dataset\n* A custom dataset to access a REST API\n\n\u003cp class\u003d\"text-center\"\u003e\n   \u003ca href\u003d\"https://academy.dataiku.com/plugin-development\" target\u003d\"_blank\" class\u003d\"btn btn--contained btn-datasets-color btn--large\"\u003e\u0026nbsp;Start learning\n  \u003c/a\u003e\n\u003c/p\u003e\n\n\u003csup\u003eData from\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. \nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.Picture \n\u003c/sup\u003e",
-  "shortDesc": "",
+  "description": "\n\u003csup\u003eData from\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. \nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.Picture \n\u003c/sup\u003e",
+  "shortDesc": "Learn how to integrate Git with DSS",
   "tags": [
     "plugin",
     "tutorial",
