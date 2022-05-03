@@ -10,6 +10,9 @@ wine_correlation = dataiku.Dataset("wine_correlation")
 wine_correlation_df = wine_correlation.get_dataframe()
 
 # -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
+df = wine_correlation_df[wine_correlation_df['corr'] > 0.75]
+
+# -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
 #assign new dataframe to output
 output_corr_df = df.copy()
 
@@ -17,5 +20,3 @@ output_corr_df = df.copy()
 # Write recipe outputs
 output_corr = dataiku.Dataset("output_corr")
 output_corr.write_with_schema(output_corr_df)
-
-
