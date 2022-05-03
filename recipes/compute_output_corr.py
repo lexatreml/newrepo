@@ -10,7 +10,7 @@ wine_correlation = dataiku.Dataset("wine_correlation")
 wine_correlation_df = wine_correlation.get_dataframe()
 
 # -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
-df = wine_correlation_df[wine_correlation_df['corr'] > 0.75]
+df = wine_correlation_df[wine_correlation_df['corr'] < 0.75]
 
 # -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
 #assign new dataframe to output

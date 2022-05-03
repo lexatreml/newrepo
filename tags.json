@@ -1,10 +1,13 @@
 {
   "tags": {
+    "duplicated": {
+      "color": "#3A85AD"
+    },
     "plugin": {},
     "section:Code": {},
     "downloads": {},
+    "recipe-editor": {},
     "tutorial": {},
-    "creator_admin": {},
-    "recipe-editor": {}
+    "creator_admin": {}
   }
 }

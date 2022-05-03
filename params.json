@@ -127,8 +127,7 @@
       }
     }
   },
-  "name": "Wine Correlation Demo",
-  "projectStatus": "Sandbox",
+  "name": "Wine Correlation Demo (working)",
   "imgPattern": 4,
   "metrics": {
     "probes": [],
@@ -185,19 +184,20 @@
     }
   },
   "versionTag": {
-    "versionNumber": 20,
+    "versionNumber": 22,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1651613157269
+    "lastModifiedOn": 1651613206021
   },
   "description": "\n\u003csup\u003eData from\nP. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. \nModeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.Picture \n\u003c/sup\u003e",
-  "shortDesc": "Learn how to integrate Git with DSS",
+  "shortDesc": "Learn how to integrate Git with DSS\nThe project *WINE_CORRELATION_DEMO_WORKING_1* was copied from *DKU_TUTORIAL_FIRSTPLUGIN_1* by Administrator on May 03rd 2022",
   "tags": [
     "plugin",
     "tutorial",
     "section:Code",
-    "downloads"
+    "downloads",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
